@@ -10,3 +10,4 @@ exercises/clippy/Cargo.lock
 *.exe
 *.pdb
 *.o
+temp*
