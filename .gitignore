@@ -9,3 +9,4 @@ exercises/clippy/Cargo.lock
 .vscode
 *.exe
 *.pdb
+*.o
